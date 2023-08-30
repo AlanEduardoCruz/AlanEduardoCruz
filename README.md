@@ -1,5 +1,5 @@
 # Alan Eduardo :pencil:
-Olá, eu sou Alan Eduardo, sou formado na área de engenharia elétrica, estou em transicão de carreira para área de tecnologia, atualmente estou realizando  BootCamps na DIO  e realizando curso de FullStack pela plataforma DevClub.
+Olá, eu sou Alan Eduardo, sou formado na área de engenharia elétrica, estou em transicão de carreira para área de tecnologia, atualmente estou realizando o curso de FullStack pela plataforma DevClub.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aeduardocruz/)
@@ -12,7 +12,6 @@ Olá, eu sou Alan Eduardo, sou formado na área de engenharia elétrica, estou e
 
 ## Próximas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 ## GitHub Status
