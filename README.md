@@ -1,5 +1,5 @@
 # Alan Eduardo :pencil:
-Olá, eu sou Alan Eduardo, sou formado na área de engenharia elétrica, estou em transicão de carreira para área de tecnologia, atualmente estou realizando o curso de Full-Stack pela plataforma Dev Club e realizando bootcamp  pela imã-tech.
+Olá, eu sou Alan Eduardo. Sou formado na área de engenharia elétrica e estou em transição de carreira para a área de tecnologia. Atualmente, estou realizando o curso de Full-Stack pela plataforma Dev Club e um bootcamp pela Imã Tech.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aeduardocruz/)
