@@ -13,6 +13,8 @@ Olá, eu sou Alan Eduardo. sou formado na área de engenharia elétrica, possuo 
 
 ## Próximas Tecnologias
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## GitHub Status
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanEduardoCruz&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
