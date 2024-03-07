@@ -12,7 +12,7 @@ Olá, eu sou Alan Eduardo. sou formado na área de engenharia elétrica, possuo 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
-/* ## Próximas Tecnologias
+ ## Próximas Tecnologias
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 
