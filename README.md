@@ -1,5 +1,5 @@
 # Alan Eduardo :pencil:
-Olá, sou Alan Eduardo. sou formado na área de engenharia elétrica, possuo conhecimentos em HTML, CSS, JavaScript, Java, C# e Angular. Atualmente, estou realizando o curso de Full Stack pela plataforma Dev Club, finalizando um  bootcamp Sharp Coders da Imã Tech e atualmentoe iniciei um bootcamp de java Full Stack pela Generation Brasil.
+Olá, sou Alan Eduardo. sou formado na área de engenharia elétrica, possuo conhecimentos em HTML, CSS, JavaScript, Java, C# e Angular. Realizei um  bootcamp Sharp Coders da Imã Tech e outro bootcamp de java Full Stack pela Generation Brasil.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aeduardocruz/)
